@@ -1,2 +1,5 @@
 URL: https://www.jenkins.io/download/
 Download Version: 2.361.4
+
+Jenkins Prerequisites:
+1. Install JDK file
